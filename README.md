@@ -1,4 +1,4 @@
-# 🐍 30 Days of Python Challenge with Indian Data Club
+# 👩‍💻 30 Days of Python Challenge with Indian Data Club
 
 Welcome to my personal journey through the **#30DaysOfPython Challenge** by [Indian Data Club](https://indiandataclub.com/)! 🚀  
 This repository documents my daily progress, code snippets, and takeaways as I learn and build with Python — one day at a time.
