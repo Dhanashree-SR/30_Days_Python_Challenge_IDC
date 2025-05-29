@@ -22,7 +22,7 @@ Each folder or file corresponds to one day of the challenge:
 
 | Day | Topic | Status | Link |
 |-----|-------|--------|------|
-| Day 01 | Hello, World + Introduction | ✅ Completed | [day01.py](day1.py)|
+| Day 01 | Hello, World + Introduction | ✅ Completed | [day01.py](Day1/day1.py)|
 | Day 02 | *Coming soon...* | ⏳ In Progress | - |
 | ... | ... | ... | ... |
 
