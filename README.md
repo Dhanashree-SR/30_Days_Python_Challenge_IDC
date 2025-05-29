@@ -22,8 +22,8 @@ Each folder or file corresponds to one day of the challenge:
 
 | Day | Topic | Status | Link |
 |-----|-------|--------|------|
-| Day 01 | Hello, World + Introduction | ✅ Completed | [day01.py](Day1/day1.py)|
-| Day 02 | Data Types, Variables & Area Calculator (User Input) | ✅ Completed |  [day02.py](Day2/day2.py)|
+| Day 01 | Hello, World + Introduction | ✅ Completed | [Day_01.py](Day%2001/Day_01.py)|
+| Day 02 | Data Types, Variables & Area Calculator (User Input) | ✅ Completed |  [Day_02.py](Day%2002/Day_02.py)|
 | Day 03 | *Coming soon...* | ⏳ In Progress | - |
 | ... | ... | ... | ... |
 
