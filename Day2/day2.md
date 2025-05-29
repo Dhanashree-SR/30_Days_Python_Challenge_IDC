@@ -17,13 +17,13 @@
 > **Task**: Calculate the area of a rectangle using user-input length and width.  
 > ✅ I implemented 5 versions of the code, including a bonus one that accepts units (like cm, m, in) and displays the final area accordingly.
 
-📁 **[Click here to view the full code → day2.py](/day2.py)**
+📁 [Click here to view the full code](/day2.py)
 
 ---
 
 ## 📚 Resources Used
 
-- [Variables in Python | Programming Tutorials (Telugu)](https://www.youtube.com/watch?v=8tCe1P_cgoY&list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0&index=3)
+- [Variables in Python | Programming Tutorials](https://www.youtube.com/watch?v=8tCe1P_cgoY&list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0&index=3)
 - [Python Variables for Beginners](https://youtu.be/LKFrQXaoSMQ?si=3TVlbPgiXBPRBXsI)
 
 ---
