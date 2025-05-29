@@ -17,7 +17,7 @@
 > **Task**: Calculate the area of a rectangle using user-input length and width.  
 > ✅ I implemented 5 versions of the code, including a bonus one that accepts units (like cm, m, in) and displays the final area accordingly.
 
-📁 **[Click here to view the full code → day2.py](Day2/day2.py)**
+📁 **[Click here to view the full code → day2.py](/day2.py)**
 
 ---
 
