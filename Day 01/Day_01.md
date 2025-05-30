@@ -24,3 +24,7 @@ print(f"Hello, World! I'm {name}")
 * It reminded me how every coder begins here — simple but meaningful.
 * I’ve written this line before, but today it feels intentional.
 * With this challenge, I’m not just learning Python — I’m building consistency, and that’s exciting.
+
+📒 **#30DaysOfPython Roadmap Link:** [Click Here to View](https://indiandataclub.notion.site/30DaysOfPython-1f9a16c0422f8074bf29eee315a6802a)
+
+---
