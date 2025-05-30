@@ -41,4 +41,7 @@ I wrote multiple versions of the rectangle area calculator — from hardcoded va
 Step by step, building my coding muscle 💪  
 On to Day 3 with excitement! 🚀
 
+📒 **#30DaysOfPython Roadmap Link:** [Click Here to View](https://indiandataclub.notion.site/30DaysOfPython-1f9a16c0422f8074bf29eee315a6802a)
+
+---
 ---
