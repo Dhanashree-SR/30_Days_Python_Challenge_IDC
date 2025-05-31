@@ -24,7 +24,8 @@ Each folder or file corresponds to one day of the challenge:
 |-----|-------|--------|------|
 | Day 01 | Hello, World + Introduction | ✅ Completed | [Day_01.py](Day%2001/Day_01.py)|
 | Day 02 | Data Types, Variables & Area Calculator (User Input) | ✅ Completed |  [Day_02.py](Day%2002/Day_02.py)|
-| Day 03 | *Coming soon...* | ⏳ In Progress | - |
+| Day 03 | List, Tuple, Sets & Dictionary - Built a Console Inventory System using Dictionary Key Value Pair | ✅ Completed |  [Day_03.py](Day%2003/Day_03.py)|
+| Day 04 | *Coming soon...* | ⏳ In Progress | - |
 | ... | ... | ... | ... |
 
 _(I’ll update this table as I go!)_
