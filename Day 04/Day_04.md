@@ -85,6 +85,6 @@ else:
 ## 🎯 Challenge
 Build a program that:
 * Checks if a number entered by the user is prime.<br/>
-📁 [Click here to view the full code](./Day_04.py)
+📁 [Click here to view the full code →](./Day_04.py)
 ---
 
