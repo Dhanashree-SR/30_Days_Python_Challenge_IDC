@@ -58,12 +58,15 @@ print(avg_lambda(numbers))   # 20.0
 **Task:** Write a function that computes the **sum** and **average** of a list of numbers.
 💡 Bonus: Try writing it in all 4 function types!
 
-📁 Click here to view the full solution → [Day_05.py](./Day_05.py)
 
+### 📁 [Click here to view the full code](./Day_05.py)
 ---
 
 ## 📚 Resources
 
 * [10. Functions \[Python 3 Programming Tutorials\]](https://youtu.be/fz_BCnhEQYQ?si=TZwuDalb0bjDtAzz)
+
+
+📒 **#30DaysOfPython Roadmap Link:** [Click Here to View](https://indiandataclub.notion.site/30DaysOfPython-1f9a16c0422f8074bf29eee315a6802a)
 
 ---
