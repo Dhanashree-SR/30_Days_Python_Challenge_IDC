@@ -1,13 +1,15 @@
 import string
-
 # Step 1: Create and write text to a file
 text_data = """
-Learning Python can be fun, but it comes with challenges.
-Understanding syntax, debugging errors, and building logic can be tricky at first.
-However, consistent practice helps overcome these challenges.
-The more you code, the better you get.
-"""
+Learning Python has been a rollercoaster. 
+At first, I doubted myself, but learning step-by-step helped me gain confidence. 
+Every day brings a new learning curve — from debugging errors to writing clean code. 
+The best part is how learning doesn't stop after a challenge; it continues when I reflect on what went wrong and how I can improve. 
+I’ve realized that learning is not just about reading syntax, but about applying logic and thinking differently. 
+Thanks to the Indian Data Club, I'm not just learning Python, 
+I’m learning how to learn better.
 
+"""
 # Create a file named 'sample.txt' and write the text into it
 with open("sample.txt", "w") as file:
     file.write(text_data)
