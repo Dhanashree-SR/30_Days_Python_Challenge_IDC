@@ -20,12 +20,15 @@ To build a strong Python foundation by coding every single day, with support fro
 
 Each folder or file corresponds to one day of the challenge:
 
-| Day | Topic | Status | Link |
-|-----|-------|--------|------|
-| Day 01 | Hello, World + Introduction | ✅ Completed | [Day_01.py](Day%2001/Day_01.py)|
-| Day 02 | Data Types, Variables & Area Calculator (User Input) | ✅ Completed |  [Day_02.py](Day%2002/Day_02.py)|
-| Day 03 | List, Tuple, Sets & Dictionary - Built a Console Inventory System using Dictionary Key Value Pair | ✅ Completed |  [Day_03.py](Day%2003/Day_03.py)|
-| Day 04 | *Coming soon...* | ⏳ In Progress | - |
+| Day | Topic | Challenge | Status | Link |
+|-----|-------|--------|------|------|
+| Day 01 | Hello, World + Introduction | Print "Hello World" + name |✅ Completed| [Day_01.py](Day%2001/Day_01.py)|
+| Day 02 | Data Types, Variables | Area of Rectangle |✅ Completed|  [Day_02.py](Day%2002/Day_02.py)|
+| Day 03 | List, Tuple, Sets & Dictionary | Built a Console Inventory System using Dictionary Key Value Pair |✅ Completed|  [Day_03.py](Day%2003/Day_03.py)|
+| Day 04 | Control Structures in Python | Checks if a number entered by the user is prime. |✅ Completed| [Day_04.py](Day%2004/Day_04.py)|
+| Day 05 | Functions in Python |Write a function that computes the sum and average of a list of numbers | ✅ Completed | [Day_05.py](Day%2005/Day_05.py)|
+| Day 06 | Modules & Packages in Python | Generate a random 8-character password |✅ Completed| [Day_06.py](Day%2006/Day_06.py)| |
+| Day 07 | File Handling in Python | - Count word frequencies in a text file |✅ Completed| [Day_07.py](Day%2007/Day_07.py)||
 | ... | ... | ... | ... |
 
 _(I’ll update this table as I go!)_
