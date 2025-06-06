@@ -27,10 +27,11 @@ Each folder or file corresponds to one day of the challenge:
 | Day 03 | List, Tuple, Sets & Dictionary | Built a Console Inventory System using Dictionary Key Value Pair |✅ Completed|  [Day_03.py](Day%2003/Day_03.py)|
 | Day 04 | Control Structures in Python | Checks if a number entered by the user is prime. |✅ Completed| [Day_04.py](Day%2004/Day_04.py)|
 | Day 05 | Functions in Python |Write a function that computes the sum and average of a list of numbers | ✅ Completed | [Day_05.py](Day%2005/Day_05.py)|
-| Day 06 | Modules & Packages in Python | Generate a random 8-character password |✅ Completed| [Day_06.py](Day%2006/Day_06.py)| |
-| Day 07 | File Handling in Python | - Count word frequencies in a text file |✅ Completed| [Day_07.py](Day%2007/Day_07.py)||
-|Day 08 | Object Oriented Programming - Part 1| Create a Car class with attributes and a display method|✅ Completed| [Day_08.py](Day%2008/Day_08.py)||
-| ... | ... | ... | ... |
+| Day 06 | Modules & Packages in Python | Generate a random 8-character password |✅ Completed| [Day_06.py](Day%2006/Day_06.py)|
+| Day 07 | File Handling in Python | - Count word frequencies in a text file |✅ Completed| [Day_07.py](Day%2007/Day_07.py)|
+|Day 08 | Object Oriented Programming - Part 1| Create a Car class with attributes and a display method|✅ Completed| [Day_08.py](Day%2008/Day_08.py)|
+|Day 09 | Object Oriented Programming - Part 2| Extend Car into an ElectricCar subclass with battery capacity|✅ Completed| [Day_09.py](Day%2009/Day_09.py)|
+|Day 10 | Exception Handling|Read numbers from a file and handle errors gracefully|✅ Completed| [Day_10.py](Day%2010/Day_10.py)|
 
 _(I’ll update this table as I go!)_
 
