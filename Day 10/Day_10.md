@@ -58,7 +58,7 @@ Write a Python program that:
 
 📁 File-based real-world error handling — simulating a data read pipeline! 📊
 
-
+📁 Check the implementation → [Day\_10.py](./Day_10.py)
 
 ## 🔗 Resources Used
 
