@@ -75,6 +75,12 @@ deepika123@gmail.com → ✅ Valid Gmail ID
 
 ---
 
+## 📚 **Resources**
+[Regular Expression Tutorial Python | Python Regex Tutorial](https://www.youtube.com/watch?v=sHw5hLYFaIw)
+
+
+[[5 Minute Tutorial] Regular Expressions (Regex) in Python](https://youtu.be/UQQsYXa1EHs?si=1bXerpdPtucw7xH4)
+
 ## 😂 Meme Time!
 
 ![galaxy brain](https://github.com/user-attachments/assets/c0be39d0-ac93-4c59-b42c-ed7eeaa04cd1)
