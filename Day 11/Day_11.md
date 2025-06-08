@@ -45,7 +45,7 @@ Think of `datetime` as your personal assistant who can not only tell you what ti
 **Calculate the number of days between two dates**
 
 
-📁 Check the implementation → [Day\_10.py](./Day_10.py)
+📁 Check the implementation → [Day\_11.py](./Day_11.py)
 
 ## 🔗 Useful Resources
 
